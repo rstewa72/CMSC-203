@@ -17,7 +17,7 @@ import java.util.Scanner;
  * any source. I have not given my code to any student.
  * - Robert Stewart
  */
-public class Main
+public class ESPGame
 {
 	public static void main(String[] args)
 	{	
